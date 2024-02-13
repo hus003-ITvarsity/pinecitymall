@@ -197,3 +197,26 @@ textarea{
     margin: 12px 0;
     padding: 8px 0;
 }
+
+/*=========== LIST ============*/
+
+table{
+    width: 103%;
+    border-collapse: collapse;
+}
+
+th,
+td{
+    padding: 15px;
+    border: 1px solid #e6e6fa;
+    text-align: left;
+}
+
+th{
+    background-color: aquamarine;
+    font-weight: 700;
+}
+
+tbody{ 
+    background-color:white;
+}
