@@ -220,3 +220,14 @@ th{
 tbody{ 
     background-color:white;
 }
+
+/*=========== CATEGORIES ============*/
+
+#category{
+    color:darkslateblue;
+    text-align: center;
+    font-weight: 700;
+    text-decoration: underline;
+    font-size: 19px;
+    font-family: sans-serif;
+}
